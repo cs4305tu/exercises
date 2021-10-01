@@ -1,2 +1,2 @@
 # week6
-Databases for exercises on cs4305tu
+Files to do exercises and assignments At Applied machine learning course
