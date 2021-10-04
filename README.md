@@ -1,2 +1,3 @@
 # Exercises
-Files to do exercises and assignments At Applied machine learning course
+Files to do exercises of the course CS4305TU Applied Machine Learning (2021/22 Q1)
+
